@@ -1,8 +1,6 @@
 # Programming Assignment 1
 
 
-* [ For Developers ](#for-developers)
-* [ For Users ](#for-users)
 
 
 
